@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validate Stack Sequences", "Validate Stack Sequences\Validate Stack Sequences.csproj", "{80909D92-69B7-4E20-B8E6-462AA623380A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80909D92-69B7-4E20-B8E6-462AA623380A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80909D92-69B7-4E20-B8E6-462AA623380A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80909D92-69B7-4E20-B8E6-462AA623380A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80909D92-69B7-4E20-B8E6-462AA623380A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1978D2B-8F8E-4DE5-9F70-8D970C07D46E}
+	EndGlobalSection
+EndGlobal
